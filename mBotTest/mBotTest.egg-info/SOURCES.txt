@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+mBotTest/__init__.py
+mBotTest/__main__.py
+mBotTest/bot.py
+mBotTest.egg-info/PKG-INFO
+mBotTest.egg-info/SOURCES.txt
+mBotTest.egg-info/dependency_links.txt
+mBotTest.egg-info/requires.txt
+mBotTest.egg-info/top_level.txt
+mBotTest/resources/start.png
